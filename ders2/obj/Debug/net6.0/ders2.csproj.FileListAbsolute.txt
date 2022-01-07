@@ -1,0 +1,15 @@
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\bin\Debug\net6.0\ders2.exe
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\bin\Debug\net6.0\ders2.deps.json
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\bin\Debug\net6.0\ders2.runtimeconfig.json
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\bin\Debug\net6.0\ders2.dll
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\bin\Debug\net6.0\ref\ders2.dll
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\bin\Debug\net6.0\ders2.pdb
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.csproj.AssemblyReference.cache
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.AssemblyInfoInputs.cache
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.AssemblyInfo.cs
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.csproj.CoreCompileInputs.cache
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.dll
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ref\ders2.dll
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.pdb
+C:\Users\30799\OneDrive\Рабочий стол\ \ders2\ders2\obj\Debug\net6.0\ders2.genruntimeconfig.cache
